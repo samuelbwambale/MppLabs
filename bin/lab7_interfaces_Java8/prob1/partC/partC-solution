@@ -1,0 +1,3 @@
+The equals() method from the superclass,Object was overridden 
+but the hashCode() was never Overridden.
+Therefore it is possible for the same Employee object to have different keys in the HashMap.

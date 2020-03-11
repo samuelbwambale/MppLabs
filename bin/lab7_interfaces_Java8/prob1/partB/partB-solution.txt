@@ -1,0 +1,6 @@
+The equals() method in Employee class does not Override the equals() method in the super class(Object).
+
+	@Override
+	public boolean equals(Object e) {
+		//Implementation
+	}

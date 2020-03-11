@@ -1,0 +1,3 @@
+Both equals() and hashCode() methods were overridden 
+but for the dupsRemoved list the visited parameter was never set to true(It was false)
+yet all the elements in the list had visited set to true
